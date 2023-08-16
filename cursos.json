@@ -1,0 +1,22 @@
+[
+                {
+                    "name": "Técnicas de Representación",
+                    "code": "DNO1012",
+                    "about": "En este curso los estudiantes trabajarán en el entrenamiento sistemático (Práctico) de la Representación a través de la ejercitación del dibujo de observación, el croquis y otras técnicas, con el propósito de entregar al diseñador en formación, una herramienta práctica para ser usada durante el proceso de ideación de un proyecto, hasta su ejecución formal. Para ello se instruirán en el uso de dicho instrumento reconociendo y analizando los principios de la observación, percepción, composición, fenómenos de la forma y sus configuraciones, a través de tareas constantes, realizadas en el aula y en la figura de encargos",
+                },
+                {
+                    "name": " Laboratorio de Experimentación y Prototipado",
+                    "code": " DNO1032",
+                    "about": "Curso teórico-práctico que permite al estudiante aplicar el prototipado como una herramienta integral en el proceso de diseño, poniendo en práctica habilidades para tangibilizar ideas e incorporar información a través del uso de prototipos, incorporando como base la sustentabilidad y como objetivo final el lograr un nivel profesional en la fabricación. El estudiante formará una visión estratégica respecto al uso de prototipos en el proceso de desarrollo, incorporando la validación y la iteración como elementos clave. Se realizarán ejercicios prácticos grupales e individuales de carácter diagnóstico, formativo y sumativo, junto con el desarrollo de proyectos",
+                },
+                {
+                    "name": " Percepción y Composición",
+                    "code": "DNO1022",
+                    "about": "En este curso teórico y práctico, los estudiantes podrán profundizar la producción de imágenes mediante la aplicación de técnicas y herramientas de composición que permitan sintonizar un concepto o mensaje predefinido con una forma elegida. Iniciarán con nociones de las leyes de la Gestalt, percepción óptica y color, luego con distintos ejercicios exploratorios para analizar y evaluar sus características y terminar con un proyecto más complejo, en el cual se evaluará la legibilidad, la coherencia entre significado y resultado gráfico y la argumentación que lo sustenta",
+                },
+                {
+                    "name": " La Experiencia de las Artes",
+                    "code": "MUC960",
+                    "about": "Curso teórico y práctico, que introduce a los alumnos en el conocimiento teórico y la experiencia concreta de algunas de las múltiples expresiones artísticas en el mundo de hoy: la ópera, la música sinfónica, el teatro, el cine, el ballet, las artes visuales, la arquitectura y la poesía, con una introducción a la Estética. Incluye la asistencia totalmente gratuita a siete actividades en distintos espacios artísticos de Santiago. Se evaluará por medio de trabajos críticos sometidos a la evaluación de pares y un trabajo final en grupo. En contexto de pandemia las clases teóricas y las experiencias prácticas se impartirán online",
+                },
+            ];
